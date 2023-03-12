@@ -1,0 +1,13 @@
+body { 
+    background-color: #202124;
+    color: #9aa0a6;
+    width: 400px;
+}
+
+h1 {
+    color: #e8eaee;
+}
+
+li:hover {
+    background-color: #292a2d;
+}
